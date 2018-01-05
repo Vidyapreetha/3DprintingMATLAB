@@ -1,2 +1,4 @@
 # 3DprintingMATLAB
 Undergraduate Final year project 
+MRI Brain Segmentation along with 3D printing Algorithms
+In this project, I put forth a novel algorithm for brain MRI image segmentation that combines statistically-based segmentation techniques with partial differential equation-based methods using Adaptive Mean Shift Modified Fuzzy C Means (AMS FCM) algorithm. It presents a method for the automatic segmentation of MRI brain images into a number of tissue classes using a SVM (Support Vector Machine) classifier. The method is not dependent on explicit features, but learns to recognize the information that is important for the classification based on MRI brain image tissues. Simulation results show up to 98% accuracy shows that combining these segmentation techniques can efficiently segment brain MRI at a level of accuracy required for 3D printing applications. 
